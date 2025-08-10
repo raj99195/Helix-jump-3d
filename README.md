@@ -28,3 +28,44 @@ Guide the ball through rotating platforms, avoid dangerous zones, and aim for th
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+Assets/
+├── Materials/ # Game colors, textures, and materials
+├── Models/ # 3D models for ball, tower, and platforms
+├── Prefabs/ # Reusable game objects (ball, platform pieces, tower sections)
+├── Scenes/ # Unity scenes (MainMenu, GamePlay, etc.)
+├── Scripts/ # C# scripts for gameplay logic
+│ ├── BallController.cs # Handles ball movement & collisions
+│ ├── PlatformManager.cs # Spawns and rotates platforms
+│ ├── GameManager.cs # Score, level progression, and game state
+│ ├── UIManager.cs # Updates score and UI elements
+│ └── SoundManager.cs # Manages game sounds & effects
+├── Sounds/ # Background music and sound effects
+├── Sprites/ # UI icons, buttons, and images
+└── Particles/ # Splash and combo particle effects
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/Helix-Jump-3D.git
+2️⃣ Open in Unity
+Recommended Unity Version: 2021.3 LTS (or compatible)
+
+Open the Assets/Scenes/Main.unity scene
+
+3️⃣ Play the game
+Press ▶ Play in Unity Editor
+
+Or build for PC/Android via File > Build Settings
+
+📸 Screenshots
+Gameplay	Level Transition
+
+📜 License
+This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+💡 Credits
+Game inspired by Helix Jump by Voodoo
+
+Developed by Your Name
