@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/Helix-Jump-3D.git
 2️⃣ Open in Unity
 Recommended Unity Version: 6000.0.46f1 LTS (or compatible)
 
-Open the Assets/Scenes/Main.unity scene
+Open the Assets/Scenes/Splash.unity scene
 
 3️⃣ Play the game
 Press ▶ Play in Unity Editor
