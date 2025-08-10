@@ -3,7 +3,7 @@
 ![Unity](https://img.shields.io/badge/Engine-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Webgl%20%7C%20?style=for-the-badge)
 
 A fun and addictive **3D arcade game** inspired by the classic *Helix Jump*.  
 Guide the ball through rotating platforms, avoid dangerous zones, and aim for the highest score!
